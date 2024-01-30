@@ -143,7 +143,7 @@ const Chatbot = () => {
             </div>
           ))}
         </div>
-        <div className="input-container -z-20 float-right md:p-8 lg:p-12">
+        <div className="input-container   float-right md:p-8 lg:p-12">
           <div className="md:float-right flex">
             <input
               type="text"

@@ -12,7 +12,7 @@ const Sidebar = () => {
     <>
       <section className="side-bar ">
         <div
-          className={`fixed border solid border-gray-300 left-0 top-0 bottom-0 w-[310px] md:w-80 pt-10 bg-slate-100 text-black ${
+          className={`fixed  z-[10] border solid border-gray-300 left-0 top-0 bottom-0 w-[310px] md:w-80 pt-10 bg-slate-100 text-black ${
             open ? "visible" : "invisible"
           }`}
         >
