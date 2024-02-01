@@ -6,7 +6,7 @@ import { IoMdSend } from "react-icons/io";
 import { FaUserCircle } from "react-icons/fa";
 import { MdContentCopy } from "react-icons/md";
 import { MdDeleteOutline } from "react-icons/md";
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "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";
 
 const Chatbot = () => {
   const [messages, setMessages] = useState([]);
